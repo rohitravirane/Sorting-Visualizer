@@ -1,0 +1,80 @@
+.container {
+    margin-top: 20px;
+}
+
+#done {
+    margin-top: -10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: hsl(235, 100%, 50%, 0.4);
+}
+
+.done {
+    text-align: center;
+}
+
+#launch {
+    height: 23px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 4px;
+    background-color: hsl(235, 100%, 50%, 0.4);
+}
+
+#toggle {
+    height: 23px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 2px;
+    margin-right: 6px;
+    background-color: hsl(235, 100%, 50%, 0.4);
+}
+
+#standard-number {
+    width: 93px;
+    height: 9px;
+}
+
+#custom_input {
+    margin-top: -40px;
+    margin-bottom: -10px;
+}
+
+#head {
+    margin-bottom: -30px;
+}
+
+#slideRange {
+    margin-bottom: -30px;;
+}
+
+.inputNums {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: scale(0.8);
+}
+
+.sortAlgo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    transform: scale(0.8);
+}
+
+#snackbar {
+    opacity: 0.7;
+}
+
+#random {
+    height: 23px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 6px;
+    background-color: hsl(235, 100%, 50%, 0.4);
+}
